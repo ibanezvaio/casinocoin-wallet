@@ -96,6 +96,7 @@
     "cross-env": "5.0.5",
     "css-loader": "0.28.7",
     "cssnano": "3.10.0",
+    "cypress": "^2.1.0",
     "electron": "1.8.2",
     "electron-builder": "^19.43.0",
     "electron-builder-squirrel-windows": "^19.43.0",
